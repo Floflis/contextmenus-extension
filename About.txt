@@ -1,0 +1,3 @@
+extension.js file was made by ChatGPT in the "AIDaniella" chateroom from Daniella Mesquita's prompt
+
+The "Util.spawn(["gnome-system-monitor"]);" part was written by ChatGPT but in other file, and Daniella Mesquita has merged this part into this extension.
